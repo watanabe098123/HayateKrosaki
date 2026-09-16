@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Hayate%20Krosaki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Watanabe%20Nanami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center"
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=fffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B+;+I'm+Watanabe+Nanami!" alt="hayate" /></a>
